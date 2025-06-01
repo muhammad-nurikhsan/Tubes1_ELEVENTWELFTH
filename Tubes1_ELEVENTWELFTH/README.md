@@ -58,6 +58,8 @@ npm run start
 
 7. Akses frontend di browser melalui: http://localhost:8082/
 
+8. berikut adalah link demo dari bot kami : https://drive.google.com/drive/folders/1FaBcXYScwzzYBIBXKRNC7MtMwC6EYI-4 
+
 ### Menjalankan Bot
 
 1. Download dan extract bot starter pack.
